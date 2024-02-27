@@ -1,5 +1,5 @@
 # About Me
-My name is John Black and I am currently a second-year student at the Schreyer Honors College at The Pennsylvania State University. I am pursuing a bachelor's of science in computer science with a minor in Mathematics.
+My name is John Black and I am currently a third-year student at the Schreyer Honors College at The Pennsylvania State University. I am pursuing a bachelor's of science in computer science with a minor in Mathematics.
 
 Connect with me on LinkedIn!
 
