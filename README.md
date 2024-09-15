@@ -1,5 +1,5 @@
 # About Me
-My name is John Black and I am currently a third-year student at the Schreyer Honors College at The Pennsylvania State University. I am pursuing a bachelor's of science in computer science with a minor in Mathematics.
+My name is John Black and I am currently a senior in the Schreyer Honors College at The Pennsylvania State University. I am pursuing a bachelor's of science in Computer Science with a minor in Mathematics.
 
 Connect with me on LinkedIn!
 
@@ -15,6 +15,5 @@ Here are some of the languages and tools I use!
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white 'CSS3')
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white 'MySQL')
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white '.NET')
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white 'Microsoft Office')
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white 'Microsoft Azure')
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white 'Visual Studio Code')
