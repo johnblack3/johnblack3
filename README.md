@@ -1,5 +1,5 @@
 # About Me
-My name is John Black and I am currently a senior in the Schreyer Honors College at The Pennsylvania State University. I am pursuing a bachelor's of science in Computer Science with a minor in Mathematics.
+My name is John Black and I recently graduated from The Pennsylvania State University with a bachelor's of science in Computer Science.
 
 Connect with me on LinkedIn!
 
@@ -10,6 +10,8 @@ Here are some of the languages and tools I use!
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white 'Python')
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white 'Java')
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black 'JavaScript')
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white 'TypeScript')
+![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white 'React')
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white 'C')
 ![HTML5](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white 'HTML5')
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white 'CSS3')
