@@ -1,5 +1,5 @@
 # About Me
-My name is John Black and I recently graduated from The Pennsylvania State University with a bachelor's of science in Computer Science. Through my academic coursework, work experience, and personal projects, I have gained skills in full-stack web development, cloud technologies, software design, and more.
+My name is John Black and I work as a Software Engineer on the Autopilot team at Tesla. I graduated from The Pennsylvania State University with a bachelor's of science in Computer Science in May 2025.
 
 Some of the projects listed on my resume were developed as part of coursework and are not publicly available on GitHub due to Penn State's academic integrity policies. Feel free to reach out via LinkedIn and I’d be happy to discuss any of them in more detail.
 
